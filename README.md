@@ -447,8 +447,9 @@ abc123def456   pengbai/docker-supermario:latest   Up 5 minutes
 
 #### Imágenes
 
-[imagen_demostrativa]("https://github.com/OscarGomez-jpg/mario_ansible/blob/main/img/image.png")
-[imagen_demostrativa2]("https://github.com/OscarGomez-jpg/mario_ansible/blob/main/img/image_copy.png")
+https://github.com/OscarGomez-jpg/mario_ansible/blob/main/img/image.png
+
+https://github.com/OscarGomez-jpg/mario_ansible/blob/main/img/image_copy.png
 
 ### 8.4 Verificación de Servicios
 

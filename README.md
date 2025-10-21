@@ -1,26 +1,5 @@
 # Reporte Técnico: Infraestructura como Código con Terraform y Ansible en AWS
 
-**Proyecto**: Despliegue automatizado de aplicaciones con Docker en AWS
-**Fecha**: 20 de Octubre de 2025
-**Autor**: Oscar Gomez
-**Tecnologías**: Terraform, Ansible, AWS EC2, Docker
-
-## Tabla de Contenidos
-
-1. [Resumen Ejecutivo](#resumen-ejecutivo)
-2. [Objetivos del Proyecto](#objetivos-del-proyecto)
-3. [Arquitectura de la Solución](#arquitectura-de-la-solución)
-4. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-5. [Implementación](#implementación)
-6. [Componentes del Sistema](#componentes-del-sistema)
-7. [Proceso de Despliegue](#proceso-de-despliegue)
-8. [Resultados Obtenidos](#resultados-obtenidos)
-9. [Seguridad y Mejores Prácticas](#seguridad-y-mejores-prácticas)
-10. [Costos y Recursos](#costos-y-recursos)
-11. [Conclusiones](#conclusiones)
-12. [Trabajo Futuro](#trabajo-futuro)
-13. [Referencias](#referencias)
-
 ## 1. Resumen Ejecutivo
 
 Este proyecto implementa una solución completa de Infraestructura como Código (IaC) que automatiza el despliegue de aplicaciones containerizadas en la nube de Amazon Web Services (AWS). La solución combina Terraform para el aprovisionamiento de infraestructura y Ansible para la gestión de configuración, logrando un flujo de trabajo totalmente automatizado desde la creación de recursos hasta el despliegue de aplicaciones.
@@ -468,8 +447,8 @@ abc123def456   pengbai/docker-supermario:latest   Up 5 minutes
 
 #### Imágenes
 
-![imagen_demostrativa]("img/image.png")
-![imagen_demostrativa2]("img/image_copy.png")
+![imagen_demostrativa]("https://github.com/OscarGomez-jpg/mario_ansible?tab=readme-ov-file/img/image.png")
+![imagen_demostrativa2]("https://github.com/OscarGomez-jpg/mario_ansible?tab=readme-ov-file/img/image_copy.png")
 
 ### 8.4 Verificación de Servicios
 
